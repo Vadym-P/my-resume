@@ -58,6 +58,7 @@ body {
   line-height: 24px;
   font-weight: 400;
   color: #95abb7;
+  margin-right: 15px;
 }
 
 .contacts-title-type {
@@ -71,7 +72,7 @@ body {
 .wrapper-social {
   display: flex;
   align-items: center;
-  flex-wrap: nowrap;
+  /* flex-wrap: nowrap; */
 }
 
 .linkedin-icon {
@@ -296,4 +297,12 @@ body {
 
 .wrapper-container {
   margin-bottom: 25px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.projects-link-style {
+  margin-right: 15px;
 }
